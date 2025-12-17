@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-course-information" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Course Information</title>
+	<introduction>
+		<p>
+			<dl>
+				<li>
+					<title>Course Title</title>
+					<p>
+						Insert Course Title Here
+					</p>
+				</li>
+				<li>
+					<title>Course Number</title>
+					<p>
+						MTHXX
+					</p>
+				</li>
+				<li>
+					<title>CRN</title>
+					<p>
+						00000
+					</p>
+				</li>
+				<li>
+					<title>Credits</title>
+					<p>
+						0
+					</p>
+				</li>
+				<li>
+					<title>Term and Year</title>
+					<p>
+						Winter 2026
+					</p>
+				</li>
+				<li>
+					<title>Prerequisites</title>
+					<p>
+						MTH YY and ...
+					</p>
+				</li>
+				<li>
+					<title>Class Meetings and Times</title>
+					<p>
+						Mondays and Wednesdays 9:00AM - 11:50AM
+					</p>
+				</li>
+				<li>
+					<title>Modality/Location</title>
+					<p>
+						In Person, SCOM 314, Southeast Campus
+					</p>
+				</li>
+			</dl>
+		</p>
+	</introduction>
+
+	<subsection>
+		<title>Course Description</title>
+		<p>
+			Type your course description here. Course descriptions can be found at 
+			<url href="https://www.pcc.edu/ccog/"/>
+		</p>
+		<subsubsection>
+			<title>Learning Outcomes</title>
+			<p>
+				In this class, you will learn...
+				<ol>
+					<li>
+						Outcome 1
+					</li>
+					<li>
+						Outcome 2
+					</li>
+				</ol>
+			</p>
+		</subsubsection>
+	</subsection>
+
+</section>

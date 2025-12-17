@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
 
-  <docinfo>
+  <article xml:id="lastname-mthXX-syllabus">
+    <title>Syllabus</title>
+    <subtitle>MTHXX Coursename</subtitle>
 
-    <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
-
-    <macros>\newcommand{\foo}{b^{ar}}</macros>
-    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
-  </docinfo>
-
-  <article xml:id="shorttitlelowercase">
-    <title>The title of my groundbreaking paper</title>
-
+    <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
-    
-    <xi:include href="./introduction.ptx" />
-    <xi:include href="./section-1.ptx" />
-    <xi:include href="./section-2.ptx" />
-  </article>
 
+    <!-- Include sections -->
+    <xi:include href="./sec-course-information.ptx" />
+
+
+    <!-- Include backmatter -->
+    <xi:include href="./backmatter.ptx" />
+
+  </article>
 </pretext>
