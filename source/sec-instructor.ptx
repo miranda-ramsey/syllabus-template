@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-instructor" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Instructor Information</title>
+	<introduction>
+		<p>
+			<dl>
+				<li>
+					<title>Instructor</title>
+					<p>
+						your.email@pcc.edu
+					</p>
+				</li>
+				<li>
+					<title>Phone</title>
+					<p>
+						971-722-xxxx
+					</p>
+				</li>
+				<li>
+					<title>Office Location</title>
+					<p>
+						Building XXX
+					</p>
+				</li>
+				<li>
+					<title>School Address</title>
+					<p>
+						Portland Community College, 12000 SW 49th Ave., Portland, OR 97219
+					</p>
+				</li>
+			</dl>
+		</p>
+	</introduction>
+
+	<subsection>
+		<title>About Me</title>
+		<p>
+			Write about yourself :)
+		</p>
+	</subsection>
+
+	<subsection>
+		<title>Schedule</title>
+		<table>
+			<title>Term Schedule</title>
+		<tabular top="major" valign="top" left="major" bottom="minor">
+			<col/>
+			<col/>
+			<col/>
+			<col/>
+			<col right="major"/>
+			<col right="major"/>
+			<col right="major"/>
+			<row header="yes" bottom="medium">
+				<cell>Class</cell>
+				<cell>CRN</cell>
+				<cell>Days</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+				<cell>Midterm</cell>
+				<cell>Final</cell>
+			</row>
+			<row>
+				<cell>MTH 111</cell>
+				<cell>20518</cell>
+				<cell>MW</cell>
+				<cell>9:00<ndash/>11:50</cell>
+				<cell>LIBR 216</cell>
+				<cell>Wed 4/30</cell>
+				<cell>Mon 6/9</cell>
+			</row>
+			<row bottom="major">
+				<cell>MTH 20</cell>
+				<cell>25135</cell>
+				<cell>MW</cell>
+				<cell>2:00<ndash/>4:20</cell>
+				<cell>SCOM 320</cell>
+				<cell>Wed 4/30</cell>
+				<cell>Wed 6/11</cell>
+			</row>
+		</tabular>
+	</table>
+		<table>
+			<title>Office Hours</title>
+		<tabular top="major" valign="top" left="major" bottom="minor">
+			<col/>
+			<col/>
+			<col/>
+			<col/>
+			<col right="major"/>
+			<col right="major"/>
+			<col right="major"/>
+			<row header="yes" bottom="medium">
+				<cell>Class</cell>
+				<cell>CRN</cell>
+				<cell>Days</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+				<cell>Midterm</cell>
+				<cell>Final</cell>
+			</row>
+			<row>
+				<cell>MTH 111</cell>
+				<cell>20518</cell>
+				<cell>MW</cell>
+				<cell>9:00<ndash/>11:50</cell>
+				<cell>LIBR 216</cell>
+				<cell>Wed 4/30</cell>
+				<cell>Mon 6/9</cell>
+			</row>
+			<row bottom="major">
+				<cell>MTH 20</cell>
+				<cell>25135</cell>
+				<cell>MW</cell>
+				<cell>2:00<ndash/>4:20</cell>
+				<cell>SCOM 320</cell>
+				<cell>Wed 4/30</cell>
+				<cell>Wed 6/11</cell>
+			</row>
+		</tabular>
+	</table>
+
+		</subsection>
+
+	</section>

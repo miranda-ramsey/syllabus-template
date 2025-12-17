@@ -13,6 +13,7 @@
 
     <!-- Include sections -->
     <xi:include href="./sec-course-information.ptx" />
+    <xi:include href="./sec-instructor.ptx" />
 
 
     <!-- Include backmatter -->
