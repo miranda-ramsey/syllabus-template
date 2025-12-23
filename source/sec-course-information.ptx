@@ -59,10 +59,12 @@
 
 	<subsection>
 		<title>Course Description</title>
-		<p>
-			Type your course description here. Course descriptions can be found at 
-			<url href="https://www.pcc.edu/ccog/"/>
-		</p>
+        <introduction>
+			<p>
+				Type your course description here. Course descriptions can be found at 
+				<url href="https://www.pcc.edu/ccog/"/>
+			</p>
+        </introduction>
 		<subsubsection>
 			<title>Learning Outcomes</title>
 			<p>

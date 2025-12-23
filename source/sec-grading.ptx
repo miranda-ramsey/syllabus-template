@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-grading" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Grading</title>
+    <introduction>
+        <p>
+                For more information, please go to the <url href="http://catalog.pcc.edu/handbook/g301-gradingguidelines/">PCC Grading Guidelines</url>.
+        </p>
+    </introduction>
+    
+	<subsection>
+		<title>Graded Assignments</title>
+		<p>
+            <ul>
+                <li>
+                    <p>
+                    </p>
+                </li>
+            </ul>
+		</p>
+	</subsection>
+
+	<subsection>
+        <title>Late Work and Make-Up Policy</title>
+		<p>
+            <ul>
+                <li>
+                    <p>
+                    </p>
+                </li>
+            </ul>
+		</p>
+	</subsection>
+    
+	<subsection>
+        <title>Criteria</title>
+        <p>
+            Please read over all assignments and discussion prompts in advance and reach out if you
+            have any questions or if you want to confirm you understand them correctly. Clarifying
+            questions will help you avoid deductions in your grades.
+            <tabular>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <row header="yes">
+                    <cell>Activities</cell>
+                    <cell>Number</cell>
+                    <cell>Points Each</cell>
+                    <cell>Total</cell>
+                </row>
+                <!--
+                <row>
+                    <cell>enter assignment type here</cell>
+                    <cell>enter number of assignments of that type here</cell>
+                    <cell>enter points each here</cell>
+                    <cell>enter total points here</cell>
+                </row>
+                -->
+            </tabular>
+            <tabular>
+                <col/>
+                <col/>
+                <col/>
+                <row header="yes">
+                    <cell>Letter Grade</cell>
+                    <cell>Points</cell>
+                    <cell>Percentage</cell>
+                </row>
+                <row>
+                    <cell>A</cell>
+                    <cell></cell>
+                    <cell>90-100%</cell>
+                </row>
+                <row>
+                    <cell>B</cell>
+                    <cell></cell>
+                    <cell>80-89%</cell>
+                </row>
+                <row>
+                    <cell>C</cell>
+                    <cell></cell>
+                    <cell>70-79%</cell>
+                </row>
+                <row>
+                    <cell>D</cell>
+                    <cell></cell>
+                    <cell>60-69%</cell>
+                </row>
+                <row>
+                    <cell>F</cell>
+                    <cell></cell>
+                    <cell>\lt 59%</cell>
+                </row>
+            </tabular>
+		</p>
+	</subsection>
+
+	</section>

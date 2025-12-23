@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-materials" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Materials</title>
+    
+	<subsection>
+		<title>Textbooks</title>
+		<p>
+            What textbooks are required
+		</p>
+	</subsection>
+
+	<subsection>
+		<title>Supplies</title>
+		<p>
+            What supplies are required
+		</p>
+	</subsection>
+
+	<subsection>
+        <title>Software/Hardware/Equipment</title>
+		<p>
+            What software etc are required
+		</p>
+        <p>
+                Please visit the technology support section of <url href="https://online.pcc.edu/shared/dl_template_8/student-resources/Student_Support_Resources.html">Student Support Resources</url>
+                for a complete list of apps and tools for PCC students.
+        </p>
+	</subsection>
+
+	<subsection>
+		<title>Technical Expecations</title>
+		<p>
+            The technical requirements for the course include:
+            <ul>
+                <li>
+                    <p>
+                        <url href="https://www.pcc.edu/online/students/preview/your-computer/">
+                                Technology Requirements for taking an online course at PCC</url>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <url href="https://www.pcc.edu/help-desk/student/web-browsers/">
+                                A recommended Internet browser installed</url>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <url href="https://www.pcc.edu/help-desk/student/desire2learn/using-google-drive-integration-in-d2l/">
+                                Ability to use Google Drive and Google Docs</url>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Webcam and/or microphone for meetings and online appointments
+                    </p>
+                </li>
+            </ul>
+		</p>
+	</subsection>
+
+    <subsection>
+        <title>Accessibility</title>
+        <p>
+            This course uses digital courseware, software, or texts that may cause barriers for those 
+            using assistive, or accessibility-related technologies. If you encounter barriers, please 
+            contact the Access Tech Team at <email>access-tech-group@pcc.edu</email> or by calling 971-722-8324.
+        </p>
+    </subsection>
+
+	</section>

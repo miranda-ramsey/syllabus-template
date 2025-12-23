@@ -14,6 +14,11 @@
     <!-- Include sections -->
     <xi:include href="./sec-course-information.ptx" />
     <xi:include href="./sec-instructor.ptx" />
+    <xi:include href="./sec-materials.ptx" />
+    <xi:include href="./sec-attendance.ptx" />
+    <xi:include href="./sec-grading.ptx" />
+    <xi:include href="./sec-policies.ptx" />
+    <xi:include href="./sec-calendar.ptx" />
 
 
     <!-- Include backmatter -->

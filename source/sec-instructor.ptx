@@ -8,13 +8,13 @@
 				<li>
 					<title>Instructor</title>
 					<p>
-						your.email@pcc.edu
+                        <email>your.email@pcc.edu</email>
 					</p>
 				</li>
 				<li>
 					<title>Phone</title>
 					<p>
-						971-722-xxxx
+                        971-722-xxxx
 					</p>
 				</li>
 				<li>
@@ -39,9 +39,25 @@
 			Write about yourself :)
 		</p>
 	</subsection>
+	<subsection>
+		<title>Communication</title>
+        <p>
+            The following guide will assist you in communicating with members of this course and
+            outlines course-specific communication standards.
+        </p>
+		<paragraphs>
+            <title>Best Way to Contact Me</title>
+            <p>
+                Write about the best way to contact you.
+            </p>
+		</paragraphs>
+	</subsection>
 
 	<subsection>
 		<title>Schedule</title>
+        <p>
+            This term I am teaching the following classes:
+        </p>
 		<table>
 			<title>Term Schedule</title>
 		<tabular top="major" valign="top" left="major" bottom="minor">
@@ -61,23 +77,25 @@
 				<cell>Midterm</cell>
 				<cell>Final</cell>
 			</row>
+            <!--
 			<row>
-				<cell>MTH 111</cell>
-				<cell>20518</cell>
-				<cell>MW</cell>
-				<cell>9:00<ndash/>11:50</cell>
-				<cell>LIBR 216</cell>
-				<cell>Wed 4/30</cell>
-				<cell>Mon 6/9</cell>
+				<cell>class</cell>
+				<cell>crn</cell>
+				<cell>weekdays</cell>
+                <cell>start<ndash/>endtime</cell>
+				<cell>room</cell>
+				<cell>midterm</cell>
+				<cell>final</cell>
 			</row>
+            -->
 			<row bottom="major">
-				<cell>MTH 20</cell>
-				<cell>25135</cell>
-				<cell>MW</cell>
-				<cell>2:00<ndash/>4:20</cell>
-				<cell>SCOM 320</cell>
-				<cell>Wed 4/30</cell>
-				<cell>Wed 6/11</cell>
+				<cell>class</cell>
+				<cell>crn</cell>
+				<cell>weekdays</cell>
+                <cell>start<ndash/>endtime</cell>
+				<cell>room</cell>
+				<cell>midterm</cell>
+				<cell>final</cell>
 			</row>
 		</tabular>
 	</table>
@@ -86,38 +104,24 @@
 		<tabular top="major" valign="top" left="major" bottom="minor">
 			<col/>
 			<col/>
-			<col/>
-			<col/>
 			<col right="major"/>
-			<col right="major"/>
-			<col right="major"/>
-			<row header="yes" bottom="medium">
-				<cell>Class</cell>
-				<cell>CRN</cell>
-				<cell>Days</cell>
+            <row header="yes">
+                <cell>Day</cell>
 				<cell>Time</cell>
 				<cell>Place</cell>
-				<cell>Midterm</cell>
-				<cell>Final</cell>
 			</row>
-			<row>
-				<cell>MTH 111</cell>
-				<cell>20518</cell>
-				<cell>MW</cell>
-				<cell>9:00<ndash/>11:50</cell>
-				<cell>LIBR 216</cell>
-				<cell>Wed 4/30</cell>
-				<cell>Mon 6/9</cell>
-			</row>
+            <!--
+            <row>
+                <cell>Day</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+            </row>
+            -->
 			<row bottom="major">
-				<cell>MTH 20</cell>
-				<cell>25135</cell>
-				<cell>MW</cell>
-				<cell>2:00<ndash/>4:20</cell>
-				<cell>SCOM 320</cell>
-				<cell>Wed 4/30</cell>
-				<cell>Wed 6/11</cell>
-			</row>
+                <cell>Day</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+            </row>
 		</tabular>
 	</table>
 

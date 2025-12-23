@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-calendar" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Schedule</title>
+	<introduction>
+		<p>
+            This schedule is a tentative outline and may change to meet the needs of the class.
+		</p>
+	</introduction>
+
+	<subsection>
+		<title>Weekly Structure</title>
+		<p>
+            Write about the weekly structure students can expect here.
+            <ul>
+                <li>
+                    <p>
+                    </p>
+                </li>
+            </ul>
+		</p>
+	</subsection>
+
+	<subsection>
+		<title>Calendar</title>
+		<table>
+			<title>Course Calendar</title>
+		<tabular top="major" valign="top" left="major" bottom="minor">
+			<col/>
+			<col/>
+			<col/>
+			<col right="major"/>
+			<row header="yes" bottom="medium">
+				<cell>Week</cell>
+                <cell>Monday<!--Tuesday--></cell>
+                <cell>Wednesday<!--Thursday--></cell>
+				<cell>Assignments</cell>
+			</row>
+            <!--
+			<row>
+                <cell>
+                    <line></line>
+                </cell>
+                <cell>
+                    <line>date</line>
+                    <line></line>
+                </cell>
+                <cell>
+                    <line>date</line>
+                    <line></line>
+                </cell>
+                <cell>
+                    <line></line>
+                </cell>
+
+			</row>
+            -->
+			<row bottom="major">
+                <cell>
+                    <line></line>
+                </cell>
+                <cell>
+                    <line>date</line>
+                    <line></line>
+                </cell>
+                <cell>
+                    <line>date</line>
+                    <line></line>
+                </cell>
+                <cell>
+                    <line></line>
+                </cell>
+
+			</row>
+		</tabular>
+	</table>
+		<table>
+			<title>Office Hours</title>
+		<tabular top="major" valign="top" left="major" bottom="minor">
+			<col/>
+			<col/>
+			<col right="major"/>
+            <row header="yes">
+                <cell>Day</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+			</row>
+            <!--
+            <row>
+                <cell>Day</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+            </row>
+            -->
+			<row bottom="major">
+                <cell>Day</cell>
+				<cell>Time</cell>
+				<cell>Place</cell>
+            </row>
+		</tabular>
+	</table>
+
+		</subsection>
+
+	</section>
