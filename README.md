@@ -13,11 +13,13 @@ In main.ptx, change the subtitle on line 9 to reflect the course name for your c
 ## source/sec-attendance.ptx
 
 In attendance.ptx, add your expectations for student attendance and participation. This includes first week activities. You can wrap a list item with
-`<li>
+```
+<li>
 <p>
 list item text here
 </p>
-<li>`
+<li>
+```
 and delete each instance you do not need.
 
 ## source/sec-calendar.ptx
